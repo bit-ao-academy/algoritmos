@@ -1,4 +1,4 @@
-algoritmos "ParOuImpar"
+algoritmo "ParOuImpar"
 var
 num: inteiro
 inicio
@@ -9,4 +9,4 @@ escreval("O numero e par")
 senao
 escreval("O numero e impar")
 fimse
-fimalgoritmos
+fimalgoritmo
