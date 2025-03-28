@@ -6,3 +6,12 @@ Uma alteração zinha....
 Uma alteração zinha....
 Um.
 Conjuntos de algoritimos resolvidos na academia
+Conjuntos de algoritimos resolvidos na academia
+Conjuntos de algoritimos resolvidos na academia
+Conjuntos de algoritimos resolvidos na academia
+Conjuntos de algoritimos resolvidos na academia
+Conjuntos de algoritimos resolvidos na academia
+Conjuntos de algoritimos resolvidos na academia
+Conjuntos de algoritimos resolvidos na academia
+Conjuntos de algoritimos resolvidos na academia
+Conjuntos de algoritimos resolvidos na academia
