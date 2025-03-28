@@ -3,7 +3,7 @@ var
 num: inteiro
 inicio
 escreval("Digite o numero:")
-leia(num=
+leia(num)
 se (num%2=0) entao
 escreval("O numero e par")
 senao
