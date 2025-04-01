@@ -1,0 +1,12 @@
+algoritmo "ParOuImpar"
+var
+num: inteiro
+inicio
+escreval("Digite o numero:")
+leia(num)
+se (num%2=0) entao
+escreval("O numero e par")
+senao
+escreval("O numero e impar")
+fimse
+fimalgoritmo
