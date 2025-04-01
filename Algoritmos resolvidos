@@ -1,0 +1,200 @@
+//Algoritmo para usar o banheiro 
+Identifique a acção
+Início 
+Se for par lavar as mãos 
+Verifique 
+Água potável e corrente 
+Sabão ou Sabonete 
+Toalha ou papel Toalha 
+Caso não tenha
+Pare!
+Caso tenha 
+Vá ao WC 
+Dirija-se ao lavatório 
+Abra a torneira 
+Molhe as mãos 
+Feixe a torneira 
+Esfregue as mãos com o Sabão ou Sabonete 
+Faça movimentos circulares e com as palmas das mãos fazendo pressão uma contra a outra
+Interlasse os dedos com as palmas das mãos de fronte uma para a outra, uma a frente da outra alternando as posições e pressão e movimentos para a frente e para atrás 
+Abra a torneira
+Enxaguar as mãos 
+Limpa-las com a Toalha ou papel Toalha 
+Se for para escovar os dentes 
+Verifique 
+Pasta de dentes  
+Escova de dentes
+Água 
+Caso não tenha 
+Pare!
+Caso tenha
+Vá ao WC 
+Dirija-se ao lavatório 
+Pegue a escovar de dentes 
+Ponha a pasta de dentes na escova de dentes 
+Por a escova de dentes na boca 
+Escovar os dentes de forma circular
+Retirar a escova da boca
+Verificar se os dentes estão limpos 
+Caso não 
+Repetir o processo 
+Caso estejam limpos
+Enxaguar a boca com água 
+Lavar Escova 
+Se for para urinar 
+Verifique 
+Água corrente  
+Sabão ou Sabonete 
+Toalha ou papel Toalha
+Caso não 
+Pare!
+Caso tenha
+Dirija-se a sanita 
+Abra as tampas da sanita 
+Realize a actividade 
+Lave as mãos 
+Limpe as mãos com a toalha ou papel toalha 
+Feixe as tampas da sanita 
+Se for para defecar
+Verifique 
+Água corrente 
+Papel higiénico 
+Sabão ou Sabonete 
+Toalha ou papel Toalha
+Caso não 
+Pare!
+Caso tenha
+Dirija-se a sanita 
+Abra as tampas da sanita 
+Realize a actividade 
+Higiénizi-se
+Lave as mãos 
+Desinfecte as mãos 
+Limpe as mãos com a toalha ou papel toalha 
+Feixe as tampas da sanita 
+Fim
+
+//Algoritmo para lavar as mãos 
+Verifique 
+Água potável e corrente 
+Sabão ou Sabonete 
+Toalha ou papel Toalha 
+Início 
+Caso não tenha
+Pare!
+Caso tenha 
+Vá ao WC 
+Dirija-se ao lavatório 
+Abra a torneira 
+Molhe as mãos 
+Feixe a torneira 
+Esfregue as mãos com o Sabão ou Sabonete 
+Faça movimentos circulares e com as palmas das mãos fazendo pressão uma contra a outra
+Interlasse os dedos com as palmas das mãos de fronte uma para a outra, uma a frente da outra alternando as posições e pressão e movimentos para a frente e para atrás 
+Abra a torneira
+Enxaguar as mãos 
+Limpa-las com a Toalha ou papel Toalha 
+Fim
+
+
+//Algoritmo para fazer arroz doce
+Verifique 
+Arroz 
+Colher de madeira 
+Água 
+Lume
+Panela com tampa 
+Leite condensado ou Leite líquido ou Leite em pó  
+Verifique o Leite 
+Se for leite líquido ou leite em pó 
+Verifique 
+Açúcar
+Início 
+Caso não tenha 
+Pare!
+Caso o tenha 
+Açúcar ou Leite condensado 
+Acenda o lume
+Ponha a Panela sobre o lume 
+Ponha água na panela aberta colocando duas (2) chávenas de água para uma (1) chávena de Arroz 
+Feixe a panela com a tampa 
+Espere a água atingir o seu ponto de ebulição 
+Tire a tampa da panela 
+Ponha o arroz com base na quantidade de água posta anteriormente 
+Mecha com a colher de madeira em sentido horária e anti-horário
+Pare de mexer e Feixe a panela 
+Aguarde parte da água evaporar 
+Abra a panela 
+Se for leite em pó 
+Dissolva em água 
+Introduza o Leite dissolvido e o açúcar na panela 
+Se for leite líquido 
+Introduza o Leite e o açúcar na panela 
+Se for leite condensado 
+Introduza o Leite na panela 
+Mecha com a colher de madeira em sentido horária e anti-horário
+Pare de mexer e Feixe a panela 
+Aguarde a solução estar no ponto pretendido 
+Desligue o lume
+Fim
+
+
+//Algoritmo para usar o multicaixa para levantar dinheiro 
+Identificar o tipo de levantamento
+Se for do tipo sem cartão
+Verifique o número de referência e a senha de três (3) dígitos
+Início 
+Caso não tenha
+Pare!
+Caso tenha
+Vá até o multicaixa mais próximo 
+Se não tiver dinheiro 
+Vá a outro multicaixa e siga os outros passos no multicaixa que irá 
+Se tiver dinheiro 
+Permaneça e espere pela sua vez 
+Digite a tecla número oito (8)
+Introduza o número de referência 
+Caso queira modificar o número 
+Clique na tecla amarela modificar 
+E faça a Introdução do número de referência correcto
+Caso não 
+Clique na tecla verde confirmar
+Digite a senha de três (3) dígitos 
+Caso queira modificar a senha de três (3) dígitos 
+Clique na tecla amarela modificar 
+E faça a Introdução da senha de três (3) dígitos correcta
+Caso não 
+Clique na tecla verde confirmar
+Retire o dinheiro 
+Se for do tipo com cartão 
+Verifique o cartão e a senha 
+Caso não tenha 
+Pade!
+Caso tenha
+Vá até o multicaixa mais próximo 
+Se não tiver dinheiro 
+Vá a outro multicaixa e siga os outros passos no multicaixa que irá 
+Se tiver dinheiro 
+Permaneça e espere pela sua vez 
+Introduza o cartão 
+Digite a senha 
+Escolha a opção levamos 
+Caso o valor que quer ser levantado esteja no ecrã 
+Clique na respectiva tecla 
+Caso não 
+Clique na opção levantamento de outras importâncias 
+Digite o valor que quer levantar 
+Clique na tecla verde confirmar
+Caso tenha papel 
+Retire o papel e retire o dinheiro 
+Caso não 
+Retire o dinheiro 
+Fim
+
+
+
+
+
+
+
+
