@@ -1,0 +1,6 @@
+Algoritmo cruzar a rua com segurança
+- olhar para direita
+- olhar para esquerda
+- está a vir carro em pelo menos um dos lados?
+	não atravesse
+- atravesse
