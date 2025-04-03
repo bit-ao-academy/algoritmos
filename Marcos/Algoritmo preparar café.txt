@@ -1,0 +1,17 @@
+Algoritmo preparar café
+- ir até a cozinha
+- não tem café
+	não preparar
+- não tem água
+	não preparar
+- não tem máquina
+	- tem fogão?
+	- não tem gás e panela
+		não preparar
+	- acender o fogão
+	- colocar panela no fogão
+	- colocar água na panela
+	- juntar o café na panela
+- ligar a máquina
+- colocar água
+- colocar café

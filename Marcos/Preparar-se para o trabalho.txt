@@ -1,0 +1,19 @@
+Algoritmo para vestir-se para o trabalho
+- Não tem trabalho
+	não vai ao trabalho
+- se não estiver bem de saúde
+	não vai ao trabalho
+- Acordar 1h30m antes da hora do trabalho
+- levantar
+- preparar o banho
+- tomar banho
+- secar-se
+- escovar os dentes
+- colocar creme
+- colocar mum
+- As roupas estão limpas?
+	- colocar boxa
+	- colocar calça
+	- colocar camisola
+	- colocar meias
+	- colocar os sapatos

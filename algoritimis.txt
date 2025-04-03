@@ -1,0 +1,3 @@
+/
+1) Verificar se tem, gaz , agua , arroz, panela, acucar, canela 
+// se tiverd

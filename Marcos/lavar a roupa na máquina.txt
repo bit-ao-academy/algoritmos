@@ -1,0 +1,25 @@
+Algoritmo lavar a roupa na máquina
+- Não tem água
+	não lavar
+- não tem detergente
+	não lavar
+- não tem máquina
+	não lavar
+- não tem energia
+	não lavar
+- Não tem roupa
+	não lavar
+- não está suja
+	não lavar
+- recolher as roupas sujas
+- levar as roupas para o local aonde vai se lavar
+- colocar água na máquina
+- Juntar detergente a água
+- ligar a máquina
+- colocar peças de roupas na máquina
+- terminou
+- não tem mais roupa suja
+	terminar a lavagem
+- ligar a máquina
+- colocar peças de roupas na máquina
+- terminou
