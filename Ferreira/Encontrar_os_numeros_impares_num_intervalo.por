@@ -3,32 +3,30 @@ programa
 	
 	funcao inicio()
 	{
-		caracter letra
-		cadeia letras
-		inteiro numInt
-		real numReal
-		logico existe
-
-		letra = 'M'
-		letras = "Marcos"
-		numInt = 12
-		numReal = 12.5
-		existe = falso
-
-		escreva(letra+"\n")
-		escreva(letras+"\n")
-		escreva(numInt+"\n")
-		escreva(numReal+"\n")
-		escreva(existe+"\n")
-		
+		inteiro a, b
+		escreva("Inicio \n")
+		leia(a)
+		escreva("Fim \n")
+		leia(b)
+		se (a>b){
+			escreva(a," > ",b," Intervalo Invslido")	
+			retorne
+			}
+			para (inteiro i=a; i<=b; i++){
+				se((i%2) != 0){
+					escreva(i,"\n")
+					}
+					
 	}
+	
+}
 }
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 320; 
+ * @POSICAO-CURSOR = 258; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

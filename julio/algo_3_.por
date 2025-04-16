@@ -1,32 +1,21 @@
 programa
 {
-	funcao inicio(){
-		
-	real Sb
-
-	escreva("Menu \n")
-	escreva("1) ")
 	
-
-	
-	
-
-
-	
-	
+	funcao inicio()
+	{inteiro idade
+		escreva("digite a sua idade")
+		leia(idade)
+		escreva("a sua idade e",idade)
 	}
-	
-	 	
 }
-
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 75; 
+ * @POSICAO-CURSOR = 129; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
