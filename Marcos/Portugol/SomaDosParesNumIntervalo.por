@@ -8,7 +8,7 @@ programa
 		escreva("Digite dois numeros: ")
 		leia(n1,n2)
 
-		para(inteiro i=n1+1; i != n2; i++){
+		para(inteiro i=n1; i <= n2; i++){
 			se(i % 2 == 0){
 				tot = tot + i
 			}
@@ -21,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 10; 
+ * @POSICAO-CURSOR = 139; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
