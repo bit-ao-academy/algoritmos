@@ -3,24 +3,21 @@ programa
 	
 	funcao inicio()
 	{
-		caracter letra
-		cadeia letras
-		inteiro numInt
-		real numReal
-		logico existe
+		inteiro n1, n2, tot
+		tot = 0
+		escreva("Digite dois numeros: ")
+		leia(n1,n2)
+		se(n1 > n2){
+			escreva(n1," > ",n2," intervalo invalido")
+			retorne
+		}
 
-		letra = 'M'
-		letras = "Marcos"
-		numInt = 12
-		numReal = 12.5
-		existe = falso
-
-		escreva(letra+"\n")
-		escreva(letras+"\n")
-		escreva(numInt+"\n")
-		escreva(numReal+"\n")
-		escreva(existe+"\n")
-		
+		para(inteiro i=n1; i <= n2; i++){
+			se(i % 2 == 0){
+				tot = tot + i
+			}
+		}
+		escreva("O total dos numeros pares no intervalo de [",n1," a ",n2,"] é ",tot)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -28,7 +25,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 320; 
+ * @POSICAO-CURSOR = 348; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
