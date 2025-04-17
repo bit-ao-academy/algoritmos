@@ -2,17 +2,17 @@ programa
 {
 	
 	funcao inicio()
-	{
+	{inteiro numero
+		escreva("digite o numero ")
+		leia(numero)
+		
+		se (numero%2==0){
+			escreva(" Este numero e par")
+		}
+		senao{
+			escreva("numero impar")
+		}
 
-	cadeia nome
-	
-		escreva("digite o teu nome")
-		leia(nome)
-		escreva("O seu nom é:", nome)
-	
-	
-	
-	
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -20,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 53; 
+ * @POSICAO-CURSOR = 118; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
