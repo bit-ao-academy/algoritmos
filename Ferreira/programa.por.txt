@@ -1,0 +1,74 @@
+programa
+{
+
+        funcao inicio()
+        {
+                inteiro dia, mes, ano, Janeiro, Fevereiro, Marco, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro, Novembro, Desembro
+
+                Janeiro = 1
+                Fevereiro = 2
+                Marco = 3
+                Abril = 4
+                Maio = 5
+                Junho = 6
+                Julho = 7
+                Agosto = 8
+                Setembro = 9
+                Outubro = 10
+                Novembro = 11
+                Desembro = 12
+
+                escreva("Digite o dia em números ")
+                leia(dia)
+
+                escreva("digite o mes em números")
+                leia(mes)
+
+                escreva("Digite o ano em números")
+                leia(ano)
+
+              //  se (ano%4 == 0 e ano%100 <> 0 ou ano%400 == 0 ) {
+              se (ano%4 == 0 ) {  
+					se (dia<=29 e mes == Fevereiro) {
+                       escreva("Data Válida")
+                        }
+					se (dia<=30 e mes == Abril ) {
+                      escreva ("Data Válida")
+            			 }
+					se (dia<=30 e mes == Junho ) {
+                      escreva ("Data Válida")
+                    	 }
+					se (dia<=30 e mes == Setembro ) {
+                      escreva ("Data Válida")
+                    	}
+					se (dia<=30 e mes == Novembro ) {
+                      escreva ("Data Válida")
+                    	}
+					se (dia<=31 e mes == Janeiro ) {
+                      escreva ("Data Válida")
+						}
+					se (dia<=31 e mes == Maio ) {
+                      escreva ("Data Válida")
+                    	}
+            	    se (dia<=31 e mes == Marco ){
+                     escreva("Data Válida")
+                		 }
+					se (dia<=31 e mes == Julho ) {
+                      escreva ("Data Válida")
+                		 }
+					se (dia<=31 e mes == Agosto ) {
+                      escreva ("Data Válida")
+                		  }
+					se (dia<=31 e mes == Outubro) {
+                      escreva ("Data Válida")
+						}
+					se (dia<=31 e mes == Desembro ) {
+                      escreva ("Data Válida")
+                		 }
+					senao{
+						escreva("Data Inválida")
+						 }
+
+                }
+		}
+}

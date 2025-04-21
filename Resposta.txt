@@ -2,6 +2,7 @@ Algoritmo "Contador"
 Var
   i:Inteiro
 Início
+//Estrutura de repetição
   Para i <- 1 ate 10 faca
 	Escreval("Contador: ", i)
   Fimpara
