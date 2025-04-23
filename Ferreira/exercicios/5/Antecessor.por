@@ -3,19 +3,12 @@ programa
 	
 	funcao inicio()
 	{
-	inteiro anoatual, nascimento, idade
-		escreva("Digite o ano lectivo atual: ")
-		leia(anoatual)
-		escreva("Digite a sua data de nascimento: ")
-		leia(nascimento)
-		idade = anoatual - nascimento
-		se (idade >= 18){
-			escreva("Você pode votar este ano.")
-		}
-		senao
-	{
-		escreva("Você não pode votar este ano.")
-	}
+		inteiro A
+
+		escreva("Digite um número\n")
+		leia(A)
+		
+		escreva("O antecessor do número digitado é:\n",A-1)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -23,7 +16,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 240; 
+ * @POSICAO-CURSOR = 80; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
