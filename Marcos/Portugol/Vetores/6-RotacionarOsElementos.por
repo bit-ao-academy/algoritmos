@@ -6,7 +6,7 @@ programa
 		inteiro valor[5], novo[5]
 
 		para(inteiro i=0; i < 5; i++){
-			escreva("Digite o ",i,"º nome: ")
+			escreva("Digite o ",i+1,"º nome: ")
 			leia(valor[i])
 		}
 		para(inteiro i=0; i < 5; i++){
@@ -27,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 386; 
+ * @POSICAO-CURSOR = 121; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {valor, 6, 10, 5}-{novo, 6, 20, 4};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
