@@ -3,23 +3,19 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro valor[5], novo[5]
+		real v1[5], v2[5], v3[5]
 
 		para(inteiro i=0; i < 5; i++){
-			escreva("Digite o ",i+1,"º nome: ")
-			leia(valor[i])
+			escreva("Valores da primeira linha :",i+1,"º -> ")
+			leia(v1[i])
+			escreva("Valores da segunda linha :",i+1,"º -> ")
+			leia(v2[i])
+			v3[i]=v1[i]*v2[i]
 		}
 		para(inteiro i=0; i < 5; i++){
-			novo[i]=valor[i]
+			escreva(v1[i],"x",v2[i],"=",v3[i],"\n")
 		}
-		
-		para(inteiro i= 0; i< 4; i++){
-			valor[i+1] = novo[i]
-		}
-		valor[0] = novo[4]
-		para(inteiro k=0; k < 5; k++){
-			escreva("[Vetor ",k,"] ","-> ",valor[k],"\n")
-		}
+	
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -27,9 +23,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 121; 
+ * @POSICAO-CURSOR = 138; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {valor, 6, 10, 5}-{novo, 6, 20, 4};
+ * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
